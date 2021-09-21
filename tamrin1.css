@@ -29,10 +29,11 @@ body{
     background-size: cover;
     height: 380px;
     background-position: center;
-   width: 300px;
+   width: 50%;
 }
 .font{
     text-align: center;
+    flex: 25%;
 }
 .tabel{
     width: 300px;
